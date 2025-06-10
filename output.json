@@ -1,11 +1,29 @@
 [ {
   "worker" : {
+    "name" : "Сидоров С.С.",
+    "job" : "Бортинженер"
+  },
+  "months" : [ {
+    "month" : "2023-12",
+    "hours" : 16.0,
+    "warnings" : [ ]
+  }, {
+    "month" : "2023-11",
+    "hours" : 2.0,
+    "warnings" : [ ]
+  } ]
+}, {
+  "worker" : {
     "name" : "Иванов И.И.",
     "job" : "Пилот"
   },
   "months" : [ {
-    "month" : "2023-01",
-    "hours" : 10.5,
+    "month" : "2023-12",
+    "hours" : 16.0,
+    "warnings" : [ ]
+  }, {
+    "month" : "2023-11",
+    "hours" : 6.5,
     "warnings" : [ ]
   } ]
 }, {
@@ -14,8 +32,12 @@
     "job" : "Штурман"
   },
   "months" : [ {
-    "month" : "2023-01",
-    "hours" : 10.5,
+    "month" : "2023-12",
+    "hours" : 24.0,
+    "warnings" : [ ]
+  }, {
+    "month" : "2023-11",
+    "hours" : 4.5,
     "warnings" : [ ]
   } ]
 } ]

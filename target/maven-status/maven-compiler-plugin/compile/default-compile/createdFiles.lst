@@ -1,6 +1,7 @@
 Main.class
 Worker.class
 Flight.class
+FlightUtils.class
 WorkerReport$MonthData.class
 WorkerReport.class
 Main$InputData.class
